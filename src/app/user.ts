@@ -1,0 +1,29 @@
+export class User {
+    id: number;
+    userName: string;
+    firstName: string;
+    middleName: string;
+    lastName: string;
+    phoneNumberMobile: string;
+    phoneNumberHome: string;
+    phoneNumberOffice: string;
+    emailPersonal: string;
+    emailOffice: string;
+    addressPresentLine1: string;
+    addressPresentLine2: string;
+    addressPresentLine3: string;
+    addressPresentCity: string;
+    addressPresentState: string;
+    addressPresentCountry: string;
+    addressPresentZipcode: string;
+    addressPermanentLine1: string;
+    addressPermanentLine2: string;
+    addressPermanentLine3: string;
+    addressPermanentCity: string;
+    addressPermanentState: string;
+    addressPermanentCountry: string;
+    addressPermanentZipcode: string;
+    addressPresentPermanentSame: boolean;
+    facebookId: string;
+    website: string;
+}

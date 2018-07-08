@@ -1,0 +1,32 @@
+.menuContainer {
+    vertical-align: top;
+    background-color: darkcyan;
+    width: 200px;
+    height: 100%;
+}
+
+.menuItem {
+    width: 100%;
+    border: none;
+    text-align: left;
+    background-color: darkcyan;
+    height: 25px;
+}
+
+.subMenuItem {
+    width: 100%;
+    border:none;
+    text-align: left;
+    background-color: darkcyan;
+    height: 25px;
+}
+
+.menu {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.subMenu {
+    list-style: none;
+    padding-left: 30px;
+}
